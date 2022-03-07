@@ -22,5 +22,5 @@ En tant que développeur FRONTEND, les défis que j’apprécie sont variés com
 
 ## 🔗 Mes liens utiles
 
-- Mon [CV](assets/resume.png)
-- Mon [Linkedin](www.linkedin.com/in/armann-ozturk)
+- Mon [CV](CV.md)
+- Mon [Linkedin](https://www.linkedin.com/in/armann-ozturk)
