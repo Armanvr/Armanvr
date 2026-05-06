@@ -1,12 +1,9 @@
 # Arman OZTURK
 
-<!-- ![Ma photo](/assets/portrait.png "Arman") -->
-<img src="./assets/portrait.png" width="400" height="400" />
-
 ---
 ## 👨🏽‍💻 Quelques mots me concernant
 
-Arman, développeur FRONTEND depuis maintenant 6 ans. Je suis un passionné d’astronomie qui a fini dans le monde de la tech et du développement.
+Développeur FRONTEND depuis maintenant 6 ans. Je suis un passionné d’astronomie qui a fini dans le monde de la tech et du développement.
 
 ---
 
